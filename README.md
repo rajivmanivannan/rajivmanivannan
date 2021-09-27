@@ -33,7 +33,7 @@
 ![Swift](https://img.shields.io/badge/Swift-000?&logo=Swift)
 ![Dart](https://img.shields.io/badge/Dart-000?&logo=Dart)  
 ![Python](https://img.shields.io/badge/Python-000?&logo=Python)
-![Go](https://img.shields.io/badge/Go-000?&logo=Go)  
+![Go](https://img.shields.io/badge/Go-000?&logo=Go)   
 ![HTML5](https://img.shields.io/badge/HTML5-000?&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?&logo=JavaScript)  
