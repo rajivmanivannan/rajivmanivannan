@@ -40,7 +40,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-000?&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?&logo=JavaScript)  
 
-<h3>Tools & Framekorks</h3>
+<h3>Tools & Frameworks</h3>
 
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-000?&logo=AndroidStudio)
 ![Xcode](https://img.shields.io/badge/Xcode-000?&logo=xcode)
@@ -51,7 +51,10 @@
 ![AdobeXD](https://img.shields.io/badge/AdobeXD-000?&logo=AdobeXD)
 ![Figma](https://img.shields.io/badge/Figma-000?&logo=Figma)  
 ![GraphQL](https://img.shields.io/badge/GraphQL-000?&logo=GraphQL)  
-![Socket.IO](https://img.shields.io/badge/Socket.IO-000?&logo=Socket.io)  
+![Flutter](https://img.shields.io/badge/Flutter-000?&logo=Flutter)
+![React Native](https://img.shields.io/badge/React_Native-000?&logo=React)  
+
+![Socket.io](https://img.shields.io/badge/Socket.io-000?&logo=Socket.io)  
 ![Electron.js](https://img.shields.io/badge/Electron.js-000?&logo=Electron)
 ![React.js](https://img.shields.io/badge/React.js-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/Node.js-000?&logo=Node.js)
