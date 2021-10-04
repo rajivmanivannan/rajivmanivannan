@@ -12,7 +12,7 @@
 
 💬 Ask me about anything. I'll be happy to help you 
 
-📬 Reach me **[rajiv.techconsultant@gmail.com](mailto:rajiv.techconsultant@gmail.com)**
+📬 Reach me **[hello@rajivmanivannan.dev](mailto:hello@rajivmanivannan.dev)**
 
 <br><h4 align="center"><i>Liked some of my work? Show some ❤️ by starring my repos</i></h4>
 <h3 align="center"><i>or</i></h3>
@@ -53,7 +53,6 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-000?&logo=GraphQL)  
 ![Flutter](https://img.shields.io/badge/Flutter-000?&logo=Flutter)
 ![React Native](https://img.shields.io/badge/React_Native-000?&logo=React)  
-
 ![Socket.io](https://img.shields.io/badge/Socket.io-000?&logo=Socket.io)  
 ![Electron.js](https://img.shields.io/badge/Electron.js-000?&logo=Electron)
 ![React.js](https://img.shields.io/badge/React.js-000?&logo=React)
