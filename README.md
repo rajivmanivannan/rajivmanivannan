@@ -19,8 +19,8 @@
 </a>
 </p>
 <img src="./Rajiv_Ethereum_QR_Code.png" alt="Donate Ethereum" height="100" width="100"/>
-<h3><i>Ethereum Public Address: 0xe0F24249Dbed0ccDE49e661b279DeA8A60084445</i></h3>
-<br> <br>
+<h4><i>Ethereum Public Address: 0xe0F24249Dbed0ccDE49e661b279DeA8A60084445</i></h4>
+<br>
 <h3 align="left">Let's connect! Find me on the web</h3>
 </br>
 <a href="https://www.linkedin.com/in/rajivmanivannan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
