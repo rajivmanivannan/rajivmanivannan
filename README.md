@@ -6,7 +6,7 @@
 
 🏗 Building **Enterprise Mobile Apps** for **[EAM360](https://eam360.com)**
 
-🌱 Currently learning **UI/UX**
+🌱 Learning **UI/UX**
 
 🪛 I'm a **Maker** too. Love tweeking hardwares
 
