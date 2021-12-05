@@ -19,7 +19,7 @@
 </a>
 </p>
 <img src="./Rajiv_Ethereum_QR_Code.png" alt="Donate Ethereum" height="100" width="100"/>
-<h4><i>Ethereum Public Address: 0xe0F24249Dbed0ccDE49e661b279DeA8A60084445</i></h4>
+<h4><i>Ethereum Public Address: 0x455bF199D8Ba8ea966FA756eE122393eD5625C15</i></h4>
 <br>
 <h3 align="left">Let's connect! Find me on the web</h3>
 </br>
