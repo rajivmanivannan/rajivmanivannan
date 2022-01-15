@@ -8,7 +8,7 @@
 
 🌱 Learning **UI/UX**
 
-🪛 I'm a **Maker** too. Love tweeking hardwares
+🪛 I'm a **Maker** too. Love tweaking hardwares
 
 📬 Reach me **[hello@rajivmanivannan.dev](mailto:hello@rajivmanivannan.dev)**
 
