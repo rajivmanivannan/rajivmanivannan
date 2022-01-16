@@ -1,7 +1,5 @@
 <h2 align="center">வணக்கம் 🙏 , I'm Rajiv Manivannan</h2>
 
-<h3 align="center">A passionate Android Engineer from 📍 Tamil Nadu, India 🇮🇳</h3> <br>
-
 🧑‍💻  I’m currently working in **[TarkaLabs](https://tarkalabs.com)**
 
 🏗 Building **Enterprise Mobile Apps** for **[EAM360](https://eam360.com)**
