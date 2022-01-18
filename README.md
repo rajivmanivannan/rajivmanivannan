@@ -1,7 +1,7 @@
 <h2 align="center">வணக்கம் 🙏 , I'm Rajiv Manivannan</h2>
 
-<h4>I am a polyglot software developer and an architect, passionate about developing software of any paradigm that delivers value to the users. Developed various software ranging from mobile / web applications, cloud technologies, embedded software to internet of things.
-</h4>
+<h3 align="left">I am a polyglot software developer and an architect, passionate about developing software of any paradigm that delivers value to the users. Developed various software ranging from mobile / web applications, cloud technologies, embedded software to internet of things.
+</h3>
 </br>
 <h3 align="left">Let's connect! Find me on the web</h3>
 </br>
