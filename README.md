@@ -1,7 +1,7 @@
 <h2 align="center">வணக்கம் 🙏 , I'm Rajiv Manivannan</h2>
 
-<h3 align="left">Polyglot software developer and an architect, passionate about developing software of any paradigm that delivers value to the users. Developed various software ranging from mobile / web applications, cloud technologies, embedded software to internet of things.
-</h3>
+<h3 align="left"><i>Polyglot software developer and an architect, passionate about developing software of any paradigm that delivers value to the users. Developed various software ranging from Mobile / Web Applications, Cloud Technologies, Embedded software to Internet of Things.
+</i></h3>
 </br>
 <h3 align="left">Let's connect! Find me on the web</h3>
 </br>
@@ -82,6 +82,6 @@
 <a href="https://www.buymeacoffee.com/rajivmanivannan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="41" width="174">
 </a>
 </p>
-<img src="./Rajiv_Ethereum_QR_Code.png" alt="Donate Ethereum" height="100" width="100"/>
-<h4><i>Ethereum Public Address: 0x455bF199D8Ba8ea966FA756eE122393eD5625C15</i></h4>
+<img align="center" src="./Rajiv_Ethereum_QR_Code.png" alt="Donate Ethereum" height="100" width="100"/>
+<h4 align="center"><i>Ethereum Public Address: 0x455bF199D8Ba8ea966FA756eE122393eD5625C15</i></h4>
 <br>
