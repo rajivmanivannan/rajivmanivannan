@@ -1,24 +1,7 @@
 <h2 align="center">வணக்கம் 🙏 , I'm Rajiv Manivannan</h2>
 
-🧑‍💻  I’m currently working in **[TarkaLabs](https://tarkalabs.com)**
-
-🏗 Building **Enterprise Mobile Apps** for **[EAM360](https://eam360.com)**
-
-🌱 Learning **UI/UX**
-
-🪛 I'm a **Maker** too. Love tweaking hardwares
-
-📬 Reach me **[hello@rajivmanivannan.dev](mailto:hello@rajivmanivannan.dev)**
-
-<br><h4 align="center"><i>Liked some of my work? Show some ❤️ by starring my repos</i></h4>
-<h3 align="center"><i>or</i></h3>
-<p align="center"> 
-<a href="https://www.buymeacoffee.com/rajivmanivannan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="41" width="174">
-</a>
-</p>
-<img src="./Rajiv_Ethereum_QR_Code.png" alt="Donate Ethereum" height="100" width="100"/>
-<h4><i>Ethereum Public Address: 0x455bF199D8Ba8ea966FA756eE122393eD5625C15</i></h4>
-<br>
+🧑‍💻 I am a polyglot software developer and an architect, passionate about developing software of any paradigm that delivers value to the users. Developed various software ranging from mobile / web applications, cloud technologies, embedded software to internet of things.
+</br>
 <h3 align="left">Let's connect! Find me on the web</h3>
 </br>
 <a href="https://www.linkedin.com/in/rajivmanivannan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
@@ -91,3 +74,13 @@
 [![AWS](https://img.shields.io/badge/AWS-000?&logo=amazon)](https://aws.amazon.com)
 [![GoogleCloud](https://img.shields.io/badge/GoogleCloud-000?&logo=GoogleCloud)](https://cloud.google.com)
 [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-000?&logo=DigitalOcean)](https://www.digitalocean.com)  
+
+<br><h4 align="center"><i>Liked some of my work? Show some ❤️ by starring my repos</i></h4>
+<h3 align="center"><i>or</i></h3>
+<p align="center"> 
+<a href="https://www.buymeacoffee.com/rajivmanivannan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="41" width="174">
+</a>
+</p>
+<img src="./Rajiv_Ethereum_QR_Code.png" alt="Donate Ethereum" height="100" width="100"/>
+<h4><i>Ethereum Public Address: 0x455bF199D8Ba8ea966FA756eE122393eD5625C15</i></h4>
+<br>
