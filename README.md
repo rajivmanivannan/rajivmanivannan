@@ -1,7 +1,7 @@
 <h3><span style="font-family:Nunito; font-size:1em;">Hi! I'm Rajiv Manivannan</h3></span>
 
 <h4 align="centre">
-<span style="font-family:Nunito; font-size:0.5em;">Polyglot software developer and an architect, passionate about developing software of any paradigm that delivers value to the users. Developed various software ranging from Mobile / Web Applications, Cloud Technologies, Embedded software to Internet of Things.
+<span style="font-family:Nunito; font-size:0.5em;">A passionate mobile engineer with over a decade of extensive expertise in complete development of native and cross platform mobile applications ranging from B2C to Enterprise products.
 </span>
 </h4>
 
