@@ -1,7 +1,7 @@
 <h3><span style="font-family:Nunito; font-size:1em;">Hi! I'm Rajiv Manivannan</h3></span>
 
 <h4 align="centre">
-<span style="font-family:Nunito; font-size:0.5em;">A passionate mobile engineer with over a decade of extensive expertise in complete development of native and cross platform mobile applications ranging from B2C to Enterprise products.
+<span style="font-family:Nunito; font-size:0.5em;">A passionate mobile engineer with over a decade of extensive expertise in complete development of native and cross platform mobile applications.
 </span>
 </h4>
 
