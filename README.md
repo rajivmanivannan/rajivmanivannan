@@ -1,9 +1,13 @@
-<h3><span style="font-family:Nunito; font-size:1em;">Hi! I'm Rajiv Manivannan</h3></span>
+<h3><span style="font-family:Nunito; font-size:1em;">👋🏼 I'm Rajiv Manivannan</h3></span>
 
 <h4 align="centre">
 <span style="font-family:Nunito; font-size:0.5em;">A passionate mobile engineer with over a decade of extensive expertise in complete development of native and cross platform mobile applications.
 </span>
 </h4>
+
+🌱  I’m on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.  
+✍️  In my free time, I enjoy listening to podcasts, reading books, and writing blogs.  
+💬  Feel free to reach out to me for pro bono consulting and volunteering.  
 
 <h3 align="left">Let's connect! Find me on the web</h3>
 </br>
