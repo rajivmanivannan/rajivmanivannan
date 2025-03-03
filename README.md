@@ -10,7 +10,7 @@
 </h4>
 
 🚀  Current Focus: Building AI solutions.  
-🔍  Learning Path: I'm on track for learning more about Cybersecurity.  
+🔍  Learning Path: Actively expanding my knowledge in Cybersecurity to stay ahead in the evolving tech landscape.  
 📖  Beyond the Code: I enjoy listening to podcasts, reading insightful books, and sharing my thoughts through blogs.  
 🤝  Community Engagement: Open to pro bono consulting and volunteering opportunities.  
 
