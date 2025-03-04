@@ -3,7 +3,7 @@
 <h4 align="centre">
 
 
-<span style="font-family:Nunito; font-size:0.3em;">A Senior Consultant, Team Leader, and Software Engineer with 13+ years of experience, primarily in Mobile Application Development. I specialize in designing, developing, and optimizing high-performance mobile applications across native and cross-platform ecosystems, ensuring seamless user experiences.
+<span style="font-family:Nunito;">A Senior Technical Consultant, Team Leader, and Software Engineer with 13+ years of experience, primarily in Mobile Application Development. I specialize in designing, developing, and optimizing high-performance mobile applications across native and cross-platform ecosystems, ensuring seamless user experiences.
 
 </span>
 
